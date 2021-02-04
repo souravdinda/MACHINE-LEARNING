@@ -1,1 +1,15 @@
- 
+HOW I HAVE SOLVED THIS ? 
+.........................................
+
+Before applying any type of data analytics on the dataset, the data  is first  cleaned.  There are  some  missing values  in  the dataset  which  needs  to  be  handled.  In  attributes  like  Age, Cabin  and  Embarked,  missing  values  are  replaced  with random sample from existing age. 
+
+We  are  going to  perform  exploratory  data analysis  for  our problem in the first stage. In exploratory data analysis dataset is explored to  figure out  the features  which would  influence the  survival rate.  The  data is  deeply  analysed by  finding  a relationship between each attribute and survival.
+
+Data cleaning is the first step while performing data analysis. Exploratory data analytics helps one to understand the dataset and  the  dependency  among  the  attributes.  EDA  is used  to figure out the relationship between the features of the dataset. This is done  by using various  graphical techniques.
+
+Here we can choose any of the models to predict survival of test  sample.  Since  we  have  evaluated  all  models  by  using confusion matrix  we will predict  by using model  which has highest accuracy. We  performed  prediction  on  data  dataset  by  using  logistic model and decision Tree  . 
+
+......................................
+
+thanks for reading ....
+
